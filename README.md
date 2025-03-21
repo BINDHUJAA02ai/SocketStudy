@@ -89,7 +89,8 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 ## OUTPUT:
 ***Client:***
-![Screenshot 2025-03-21 135602](https://github.com/user-attachments/assets/e6f62e3a-c7e7-49e2-b81f-04083eeea87a)
+
+![Screenshot 2025-03-21 113932](https://github.com/user-attachments/assets/709fb3fc-be20-4b88-9283-5df31fc52014)
 
 
 ***Server:***
